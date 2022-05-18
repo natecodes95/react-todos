@@ -23,3 +23,10 @@ In isolation
 - use id (identifier) to find, edit, or delete a task
 
 Every time need to change application's state, need to update the UI to match
+
+JavaScript gives us an array method for transforming data into something else: Array.prototype.map().
+
+JIMBO
+
+- Fix up validation for Form
+- Reset state after submit
